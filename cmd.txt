@@ -1,0 +1,3 @@
+sb add money money
+sb add exp exp
+cmd ( say 2 )
